@@ -6,3 +6,25 @@
 body{
       font-family: 'Cabin', sans-serif;
 }
+
+.introduction{
+      width: 50%;
+      padding: 10px 40px;
+      margin: 4%;
+      text-align: left;
+      float: left;
+}
+
+.introduction-img{
+      float:right;
+      margin: 4%;
+
+}
+
+.first-anchor-button{
+      text-decoration: none;
+      padding: 10px 40px;
+      font-weight: 700;
+      border-radius: 5px;
+      
+}
