@@ -23,14 +23,15 @@ h1 span{
 }
 
 .half-width{
-      width: 100%;
+      width: 40%;
+
       float: left;
-      margin-left: 2%;
+      margin-left: 5%;
       padding-left: 2%;
 }
 
 .half-width image{
-      width: 100%;
+      width: %;
 }
 
 .anchor-button{
@@ -41,6 +42,10 @@ h1 span{
     color: white;
     font-weight: 700;
     border-width: 1px 1px 1px 1px;
+} 
+
+p{
+      color: rgb(179, 130, 138);
 }
 
 .dream-big{
@@ -62,3 +67,8 @@ h1 span{
       display: 33.33%;
       width: 25%;
 }
+ .menu{
+       float: left;
+       width: 33.33%;
+ }
+ 
