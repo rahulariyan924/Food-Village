@@ -1,6 +1,8 @@
 body{
+      padding: 0;
       font-family: 'Roboto', sans-serif;
       margin: 0;
+      
 }
 
 .flexible-container{
@@ -24,7 +26,6 @@ h1 span{
 
 .half-width{
       width: 40%;
-
       float: left;
       margin-left: 5%;
       padding-left: 2%;
@@ -54,6 +55,7 @@ p{
       background-position: 40% 35%;
       
 }
+
 .all-recepies{
       width: 33.33%;
       box-shadow: 10px 10px 40px gray;
@@ -61,14 +63,20 @@ p{
 
       padding: 0 4px;
       
+
+
+.text{
+      
+      text-align: center;
+      font-size: 21px;
 }
+
 
 .all-recepies image{
       display: 33.33%;
       width: 25%;
+
+.item {
+      width: 30%;
+      box-shadow: 10px 10px 40px gray;
 }
- .menu{
-       float: left;
-       width: 33.33%;
- }
- 
