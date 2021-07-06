@@ -76,7 +76,23 @@ p{
       display: 33.33%;
       width: 25%;
 
-.item {
+
+      .flexible-container2{
+            text-align: center;
+            
+            display: flex;
+            flex-wrap: wrap;
+            height: 500px;
+            padding: 0  4px;
+            padding-bottom: 200px;
+
+      }
+
+
+
+
+.item{
+      display: flex;
       width: 30%;
       box-shadow: 10px 10px 40px gray;
 }
