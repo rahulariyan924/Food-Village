@@ -4,8 +4,10 @@ body{
 }
 
 section{
-      height: 200px;
+      display: flex;
+      height: 500px;
       padding-bottom: 200px;
+      
 }
 
 h1{
@@ -34,4 +36,8 @@ h1 span{
     border-radius: 5px;
     color: white;
     font-weight: 700;
+}
+
+.dream-area{
+      background-position: right;
 }
