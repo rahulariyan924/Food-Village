@@ -3,9 +3,13 @@ body{
       margin: 0;
 }
 
-section{
+.flexible-container{
+      text-align: center;
+      width: 100%;
       display: flex;
+      flex-wrap: wrap;
       height: 500px;
+      padding: 0  4px;
       padding-bottom: 200px;
       
 }
@@ -44,4 +48,17 @@ h1 span{
       background-repeat: no-repeat;
       background-position: 40% 35%;
       
+}
+.all-recepies{
+      width: 33.33%;
+      box-shadow: 10px 10px 40px gray;
+      flex: 30%;
+
+      padding: 0 4px;
+      
+}
+
+.all-recepies image{
+      display: 33.33%;
+      width: 25%;
 }
